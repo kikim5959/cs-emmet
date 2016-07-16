@@ -1,0 +1,20 @@
+h1 {
+    color: green;
+    margin: 0;
+}
+h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+.nav > li {
+    display: inline-block;
+}
+.btn-nav-perso {
+    font-weight: 100;
+    color: white;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin-left: 5px;
+    margin-top: 4px;
+}
