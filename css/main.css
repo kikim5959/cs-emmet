@@ -1,38 +1,30 @@
     .navbar navbar-inverse navbar-fixed-top, h1 {
     color: green;
     margin: 0;
-    font-style: italic;
-    font-family: cursive;
+    font-style: italic;font-family: cursive;
+
 }
-.nav > li {
+.nav> li {
     display: inline-block;
 }
-
-
-
-
 #kiki {
-background-image: url(kiki.jpg);
-background-size: cover;
-padding-top: 50px;
-padding-bottom: 500px;
-
-}
-
-.hello , h1 , p {
-margin-top: 10px;
+    background-image: url(kiki.jpg);
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 500px;
 }
 
 
-.section th {
-    border: 1px solid black;
-    color: #fff;
-    background-color: brown;
-    font-size: 9.5pt;
+.img-circle {
+
+margin-left: 50px;
+display: inline;
+margin-bottom: auto;
+
 }
-.section td {
-    font-family: Arial, sans-serif;
-    font-size: 8.5pt;
-    vertical-align: top;
-    border: 0;
-}
+
+
+ .lead {
+
+
+ }
