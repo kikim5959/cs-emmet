@@ -10,16 +10,13 @@ h2 {
     display: inline-block;
 }
 .btn-nav-perso {
-    font-weight: 100;
+    font-weight: 300;
     color: white;
-    border: 1px solid green;
-    border-radius: 10px;
-    padding: 5px 5px;
-    margin-left: 5px;
-    margin-top: 4px;
+    border: 1px; solid green;
+
 }
 
 body {
-background-color: 
+background-color: #dbdbdb;
 
 }
